@@ -7,5 +7,6 @@ Un blog increible para el curso de Git y Github de Platzi
 - GitHub para todos 💪
 - Tu potencial es muy importante (solo recuerdalo)
 - Practica, practica y practica mucho
+- Disponible para todas las edades, solo necesitas estar apasionado
 
 Para recordar **Nunca pares de aprender**, *eres alguien con un superPotencial!!!*
