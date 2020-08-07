@@ -5,5 +5,6 @@ Un blog increible para el curso de Git y Github de Platzi
 - Compartir conocimiento con otros compañeros
 - Trabajar desde la casa y la empresa
 - GitHub para todos 💪
+- Tu potencial es muy importante (solo recuerdalo)
 
 Para recordar **Nunca pares de aprender**, *eres alguien con un superPotencial!!!*
